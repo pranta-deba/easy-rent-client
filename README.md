@@ -2,6 +2,12 @@
 
 In-depth breakdown of the requirements for creating a large-scale platform for buying and selling flats :
 
+## Getting Started
+
+- Install dependencies: 
+``npm i``
+- Start the development server: ``npm run dev``
+
 ## Already install library : 
 
 - tailwind
