@@ -12,6 +12,8 @@ In-depth breakdown of the requirements for creating a large-scale platform for b
 
 - tailwind
 - react-router-dom
+- headless ui react
+- react icons
 
 
 ## ALready setup tools : 
